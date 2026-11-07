@@ -1,0 +1,15 @@
+# Sensitive configuration
+config/db.php
+config/mail.php
+
+# Composer dependencies
+/vendor/
+
+# Environment files
+.env
+.env.*
+
+# Logs and temporary files
+*.log
+.DS_Store
+Thumbs.db
